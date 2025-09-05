@@ -1,1 +1,1 @@
-This is the Mathematica file for the experience-based pairwise comparison (EPC) dynamics in two 3 by 3 games in which strategy 1 is obviously dominated by strategy 2. 
+This is the Mathematica file for the experience-based pairwise comparison (EPC) dynamics in two 3 by 3 games in which strategy 1 is obviously dominated by strategy 2, and two other pure coordination games. 
